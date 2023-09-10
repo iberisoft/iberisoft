@@ -1,5 +1,5 @@
 - 👋 Hi, I am a software/hardware engineer working at [Iberis Software](https://iberisoft.com/) based in Asturias, Spain.
 - 👀 I’m interested in the development of industrial/medical imaging systems, both desktop/web frontend and backend.
-- 🌱 I’m currently learning [Vue.js](https://vuejs.org).
+- 🌱 I’m currently learning [Vue.js](https://vuejs.org) and [Node.js](https://nodejs.org/en).
 - 💞️ I’m looking to collaborate on automation in the industry.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pavelzaytsev/).
