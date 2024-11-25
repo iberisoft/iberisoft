@@ -1,5 +1,5 @@
 - 👋 Hi, I am a software/hardware engineer at [Iberis Software](https://iberisoft.com/) based in Asturias, Spain.
 - 👀 I’m interested in developing industrial/medical imaging systems, both desktop/web frontend and backend.
-- 🌱 I’m currently learning [Python.NET](https://github.com/pythonnet/pythonnet) and new features of [.NET 8](https://dotnet.microsoft.com/es-es/download/dotnet/8.0).
+- 🌱 I’m currently learning [.NET nanoFramework](https://nanoframework.net/) and new features of [.NET 9](https://dotnet.microsoft.com/es-es/download/dotnet/9.0).
 - 💞️ I’m looking to collaborate on automation in the industry.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pavelzaytsev/).
